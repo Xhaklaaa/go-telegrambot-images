@@ -42,7 +42,7 @@ cd go-telegrambot-images
 go mod download
 ```
 ## Configuration
-• **Environment Variables: **Create a configs/configs.yaml file in the root directory with the following content:
+• **Environment Variables:** Create a configs/configs.yaml file in the root directory with the following content:
 ```
 channelID: your_telegram_channel_id
 botToken: your_telegram_bot_token
